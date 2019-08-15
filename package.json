@@ -1,0 +1,20 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "Language Interpretation and Recognition Interface (LIRI) - will search Spotify for songs, Bands in Town of concerts, and OMDB for movie information",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnericward/liri-node-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnericward/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/johnericward/liri-node-app#readme"
+}
